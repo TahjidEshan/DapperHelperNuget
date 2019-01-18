@@ -1,0 +1,8 @@
+/mnt/drive1/dapperhelper/obj/Debug/netstandard2.0/dapperhelper.csproj.CoreCompileInputs.cache
+/mnt/drive1/dapperhelper/obj/Debug/netstandard2.0/dapperhelper.AssemblyInfoInputs.cache
+/mnt/drive1/dapperhelper/obj/Debug/netstandard2.0/dapperhelper.AssemblyInfo.cs
+/mnt/drive1/dapperhelper/bin/Debug/netstandard2.0/dapperhelper.deps.json
+/mnt/drive1/dapperhelper/bin/Debug/netstandard2.0/dapperhelper.dll
+/mnt/drive1/dapperhelper/bin/Debug/netstandard2.0/dapperhelper.pdb
+/mnt/drive1/dapperhelper/obj/Debug/netstandard2.0/dapperhelper.dll
+/mnt/drive1/dapperhelper/obj/Debug/netstandard2.0/dapperhelper.pdb
